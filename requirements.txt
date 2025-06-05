@@ -71,3 +71,4 @@ wget
 git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
 youtube_dl
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
